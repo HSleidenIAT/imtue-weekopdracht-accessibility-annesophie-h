@@ -99,7 +99,9 @@ nav .search {
   height: 100%;
   padding: 0 2em;
 }
-
+.search label{
+  font-size: 1.6rem;
+}
 .search input {
   font-size: 1.6rem;
   height: 32px;
